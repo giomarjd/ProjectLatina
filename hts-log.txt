@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 03 Nov 2022 12:20:13 at https://www.latina.pe/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.latina.pe/ -O1 "C:\Users\PC-08\Documents\ProyectoHtTrack\ProyectoLatina" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:25:05	Error: 	"Method Not Allowed" (405) at link https://www.latina.pe/xmlrpc.php (from https://www.latina.pe/)
+12:25:12	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.latina.pe/)
+12:25:20	Error: 	"Cancelled by User" (-1) at link https://www.googletagservices.com/tag/js/gpt.js (from https://www.latina.pe/)
+12:25:20	Error: 	"Not Found" (404) at link https://www.latina.pe/wp-content/themes/genesis-latina/css/owl.video.play.png (from https://www.latina.pe/wp-content/themes/genesis-latina/css/owl.carousel.min.css)
+12:25:20	Error: 	"Forbidden" (403) at link pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (from https://cdn.insurads.com/bootstrap/FLIBQIHH.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 7 seconds : 57 links scanned, 51 files written (2967281 bytes overall) [1989706 bytes received at 6481 bytes/sec], 1270381 bytes transferred using HTTP compression in 27 files, ratio 19%, 3.5 requests per connection
+(5 errors, 0 warnings, 0 messages)
